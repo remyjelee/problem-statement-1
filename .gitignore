@@ -1,0 +1,10 @@
+# Python junk
+__pycache__/
+*.py[cod]
+
+# Virtual Environment (Don't upload this!)
+venv/
+.env
+
+# ChromaDB local data (if any was created on disk)
+chroma_db/
